@@ -1,4 +1,4 @@
-yard sale website 
+Yard Sale website 
 
 **Yard Sale project screens**
 
